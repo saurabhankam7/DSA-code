@@ -4,7 +4,7 @@ public class stackpra {
     /**
      * Node class
      */
-    public class Node {
+    public static class Node {
         String data;
         Node next;
 
@@ -17,8 +17,8 @@ public class stackpra {
     /**
      * Stackoperation class
      */
-    static class Stackoperation {
-        private Node head;  // Now non-static
+    public static class Stackoperation {
+        Node head;  // Now non-static
 
         public boolean isEmpty() {
             return head == null;
