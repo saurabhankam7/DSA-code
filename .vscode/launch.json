@@ -1,0 +1,294 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "selectionpra",
+            "request": "launch",
+            "mainClass": "Sortalgo.selectionpra",
+            "projectName": "Code_a3ea6fe6"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Array2D",
+            "request": "launch",
+            "mainClass": "Array.Array2D",
+            "projectName": "Code_a3ea6fe6"
+        },
+        {
+            "type": "java",
+            "name": "Arraylist1",
+            "request": "launch",
+            "mainClass": "Array.Arraylist1",
+            "projectName": "Code_a3ea6fe6"
+        },
+        {
+            "type": "java",
+            "name": "array1",
+            "request": "launch",
+            "mainClass": "Array.array1",
+            "projectName": "Code_a3ea6fe6"
+        },
+        {
+            "type": "java",
+            "name": "If",
+            "request": "launch",
+            "mainClass": "Conditional.If",
+            "projectName": "Code_a3ea6fe6"
+        },
+        {
+            "type": "java",
+            "name": "If1",
+            "request": "launch",
+            "mainClass": "Conditional.If1",
+            "projectName": "Code_a3ea6fe6"
+        },
+        {
+            "type": "java",
+            "name": "Switch",
+            "request": "launch",
+            "mainClass": "Conditional.Switch",
+            "projectName": "Code_a3ea6fe6"
+        },
+        {
+            "type": "java",
+            "name": "Function1",
+            "request": "launch",
+            "mainClass": "Functions.Function1",
+            "projectName": "Code_a3ea6fe6"
+        },
+        {
+            "type": "java",
+            "name": "Sum1",
+            "request": "launch",
+            "mainClass": "Functions.Sum1",
+            "projectName": "Code_a3ea6fe6"
+        },
+        {
+            "type": "java",
+            "name": "factorial",
+            "request": "launch",
+            "mainClass": "Functions.factorial",
+            "projectName": "Code_a3ea6fe6"
+        },
+        {
+            "type": "java",
+            "name": "product",
+            "request": "launch",
+            "mainClass": "Functions.product",
+            "projectName": "Code_a3ea6fe6"
+        },
+        {
+            "type": "java",
+            "name": "Hashset",
+            "request": "launch",
+            "mainClass": "HashSet.Hashset",
+            "projectName": "Code_a3ea6fe6"
+        },
+        {
+            "type": "java",
+            "name": "Hashset1",
+            "request": "launch",
+            "mainClass": "HashSet.Hashset1",
+            "projectName": "Code_a3ea6fe6"
+        },
+        {
+            "type": "java",
+            "name": "Hashmap1",
+            "request": "launch",
+            "mainClass": "Hashmap.Hashmap1",
+            "projectName": "Code_a3ea6fe6"
+        },
+        {
+            "type": "java",
+            "name": "Hashmap2",
+            "request": "launch",
+            "mainClass": "Hashmap.Hashmap2",
+            "projectName": "Code_a3ea6fe6"
+        },
+        {
+            "type": "java",
+            "name": "Collect1",
+            "request": "launch",
+            "mainClass": "LinkedList.Collect1",
+            "projectName": "Code_a3ea6fe6"
+        },
+        {
+            "type": "java",
+            "name": "LInkedlist1",
+            "request": "launch",
+            "mainClass": "LinkedList.LInkedlist1",
+            "projectName": "Code_a3ea6fe6"
+        },
+        {
+            "type": "java",
+            "name": "Linkedlistpra",
+            "request": "launch",
+            "mainClass": "LinkedList.Linkedlistpra",
+            "projectName": "Code_a3ea6fe6"
+        },
+        {
+            "type": "java",
+            "name": "pra",
+            "request": "launch",
+            "mainClass": "LinkedList.pra",
+            "projectName": "Code_a3ea6fe6"
+        },
+        {
+            "type": "java",
+            "name": "reverselinked",
+            "request": "launch",
+            "mainClass": "LinkedList.reverselinked",
+            "projectName": "Code_a3ea6fe6"
+        },
+        {
+            "type": "java",
+            "name": "Abstraction1",
+            "request": "launch",
+            "mainClass": "OOPS.Abstraction1",
+            "projectName": "Code_a3ea6fe6"
+        },
+        {
+            "type": "java",
+            "name": "Class1",
+            "request": "launch",
+            "mainClass": "OOPS.Class1",
+            "projectName": "Code_a3ea6fe6"
+        },
+        {
+            "type": "java",
+            "name": "Polymorphsm1",
+            "request": "launch",
+            "mainClass": "OOPS.Polymorphsm1",
+            "projectName": "Code_a3ea6fe6"
+        },
+        {
+            "type": "java",
+            "name": "inheritance1",
+            "request": "launch",
+            "mainClass": "OOPS.inheritance1",
+            "projectName": "Code_a3ea6fe6"
+        },
+        {
+            "type": "java",
+            "name": "Bubble",
+            "request": "launch",
+            "mainClass": "Sortalgo.Bubble",
+            "projectName": "Code_a3ea6fe6"
+        },
+        {
+            "type": "java",
+            "name": "Selection",
+            "request": "launch",
+            "mainClass": "Sortalgo.Selection",
+            "projectName": "Code_a3ea6fe6"
+        },
+        {
+            "type": "java",
+            "name": "Stack1",
+            "request": "launch",
+            "mainClass": "Stack.Stack1",
+            "projectName": "Code_a3ea6fe6"
+        },
+        {
+            "type": "java",
+            "name": "stackpra",
+            "request": "launch",
+            "mainClass": "Stack.stackpra",
+            "projectName": "Code_a3ea6fe6"
+        },
+        {
+            "type": "java",
+            "name": "Starpattern1",
+            "request": "launch",
+            "mainClass": "Starpattern1",
+            "projectName": "Code_a3ea6fe6"
+        },
+        {
+            "type": "java",
+            "name": "String3",
+            "request": "launch",
+            "mainClass": "Strings.String3",
+            "projectName": "Code_a3ea6fe6"
+        },
+        {
+            "type": "java",
+            "name": "string1",
+            "request": "launch",
+            "mainClass": "Strings.string1",
+            "projectName": "Code_a3ea6fe6"
+        },
+        {
+            "type": "java",
+            "name": "string2",
+            "request": "launch",
+            "mainClass": "Strings.string2",
+            "projectName": "Code_a3ea6fe6"
+        },
+        {
+            "type": "java",
+            "name": "Sysout",
+            "request": "launch",
+            "mainClass": "Sysout",
+            "projectName": "Code_a3ea6fe6"
+        },
+        {
+            "type": "java",
+            "name": "Variable1",
+            "request": "launch",
+            "mainClass": "Variable.Variable1",
+            "projectName": "Code_a3ea6fe6"
+        },
+        {
+            "type": "java",
+            "name": "input",
+            "request": "launch",
+            "mainClass": "Variable.input",
+            "projectName": "Code_a3ea6fe6"
+        },
+        {
+            "type": "java",
+            "name": "Dowhile1",
+            "request": "launch",
+            "mainClass": "loop.Dowhile1",
+            "projectName": "Code_a3ea6fe6"
+        },
+        {
+            "type": "java",
+            "name": "For1",
+            "request": "launch",
+            "mainClass": "loop.For1",
+            "projectName": "Code_a3ea6fe6"
+        },
+        {
+            "type": "java",
+            "name": "While1",
+            "request": "launch",
+            "mainClass": "loop.While1",
+            "projectName": "Code_a3ea6fe6"
+        },
+        {
+            "type": "java",
+            "name": "addnnatural",
+            "request": "launch",
+            "mainClass": "loop.addnnatural",
+            "projectName": "Code_a3ea6fe6"
+        },
+        {
+            "type": "java",
+            "name": "table",
+            "request": "launch",
+            "mainClass": "loop.table",
+            "projectName": "Code_a3ea6fe6"
+        }
+    ]
+}
