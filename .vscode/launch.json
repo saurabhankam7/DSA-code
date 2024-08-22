@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Bubblepra",
+            "request": "launch",
+            "mainClass": "Sortalgo.Bubblepra",
+            "projectName": "Code_a3ea6fe6"
+        },
+        {
+            "type": "java",
             "name": "selectionpra",
             "request": "launch",
             "mainClass": "Sortalgo.selectionpra",
