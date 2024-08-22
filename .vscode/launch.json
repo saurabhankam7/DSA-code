@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "fibb",
+            "request": "launch",
+            "mainClass": "recursion.fibb",
+            "projectName": "Code_a3ea6fe6"
+        },
+        {
+            "type": "java",
+            "name": "factorial",
+            "request": "launch",
+            "mainClass": "recursion.factorial",
+            "projectName": "Code_a3ea6fe6"
+        },
+        {
+            "type": "java",
+            "name": "rec1",
+            "request": "launch",
+            "mainClass": "recursion.rec1",
+            "projectName": "Code_a3ea6fe6"
+        },
+        {
+            "type": "java",
+            "name": "arraydel",
+            "request": "launch",
+            "mainClass": "Array.arraydel",
+            "projectName": "Code_a3ea6fe6"
+        },
+        {
+            "type": "java",
             "name": "Bubblepra",
             "request": "launch",
             "mainClass": "Sortalgo.Bubblepra",
