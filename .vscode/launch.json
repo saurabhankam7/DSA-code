@@ -6,6 +6,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "calpowerlogn",
+            "request": "launch",
+            "mainClass": "recursion.calpowerlogn",
+            "projectName": "Code_a3ea6fe6"
+        },
+        {
+            "type": "java",
+            "name": "calpower",
+            "request": "launch",
+            "mainClass": "recursion.calpower",
+            "projectName": "Code_a3ea6fe6"
+        },
+        {
+            "type": "java",
+            "name": "fibb1",
+            "request": "launch",
+            "mainClass": "recursion.fibb1",
+            "projectName": "Code_a3ea6fe6"
+        },
+        {
+            "type": "java",
+            "name": "vowel",
+            "request": "launch",
+            "mainClass": "Strings.vowel",
+            "projectName": "Code_a3ea6fe6"
+        },
+        {
+            "type": "java",
+            "name": "Hanoi",
+            "request": "launch",
+            "mainClass": "recursion.Hanoi",
+            "projectName": "Code_a3ea6fe6"
+        },
+        {
+            "type": "java",
+            "name": "xpown",
+            "request": "launch",
+            "mainClass": "recursion.xpown",
+            "projectName": "Code_a3ea6fe6"
+        },
+        {
+            "type": "java",
             "name": "fibb",
             "request": "launch",
             "mainClass": "recursion.fibb",

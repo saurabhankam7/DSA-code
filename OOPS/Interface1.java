@@ -30,7 +30,7 @@ public class Interface1 {
     public static void main(String[] args) {
         Horse H1 = new Horse();
         H1.eat();
-        H1.walk();
+
     }
 }
 
