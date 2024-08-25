@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "char1",
+            "request": "launch",
+            "mainClass": "char1",
+            "projectName": "Code_a3ea6fe6"
+        },
+        {
+            "type": "java",
+            "name": "Strinrem",
+            "request": "launch",
+            "mainClass": "Strings.Strinrem",
+            "projectName": "Code_a3ea6fe6"
+        },
+        {
+            "type": "java",
+            "name": "Honoi1",
+            "request": "launch",
+            "mainClass": "recursion.Honoi1",
+            "projectName": "Code_a3ea6fe6"
+        },
+        {
+            "type": "java",
             "name": "queue1",
             "request": "launch",
             "mainClass": "Queue.queue1",
